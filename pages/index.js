@@ -40,6 +40,12 @@ const Home = ({ allPostsData }) => {
               </small>
             </li>
           ))}
+          <li className={utilStyles.listItem}>
+            <Link href={'/api/hello'}>
+              <a>Teste</a>
+            </Link>
+
+          </li>
         </ul>
       </section>
 
