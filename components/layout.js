@@ -4,8 +4,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Araudata Serviços ltda.'
-export const siteTitle = 'Araudata Serviços ltda.'
+const name = 'Consig-Express - Crédito consignado.'
+export const siteTitle = 'Consig-Express' 
 
 
 const Layout = ({ children, home }) => {
